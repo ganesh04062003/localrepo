@@ -1,1 +1,1 @@
-#This is my new locorepo
+#This is my local repo
